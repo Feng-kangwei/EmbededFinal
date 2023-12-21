@@ -1,6 +1,4 @@
 # Embedded Challenge
-- name:Kangwei Feng 
-- Net id: kf2448
 ## Introduction
 
 This README provides guidance on how to set up and configure the necessary components for this project, specifically focusing on the integration of the `GYRO_DISCO_F429ZI` package.
